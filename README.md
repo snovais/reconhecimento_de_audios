@@ -6,4 +6,4 @@ Os sistemas de reconhecimento de voz e áudio do mundo real são complexos. Mas,
 
 
 
-[![Imagem](https://github.com/snovais/reconhecimento_de_audios/tree/main/imagem/imagem.jpg)](https://github.com/snovais/reconhecimento_de_audios/tree/main/imagem/imagem.jpg)
+[!(https://www.tensorflow.org/tutorials/audio/simple_audio_files/output_QUbHfTuon4iF_0.png)](https://www.tensorflow.org/tutorials/audio/simple_audio_files/output_QUbHfTuon4iF_0.png)
