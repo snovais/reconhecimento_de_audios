@@ -6,4 +6,4 @@ Os sistemas de reconhecimento de voz e áudio do mundo real são complexos. Mas,
 
 
 
-
+[![Imagem](https://github.com/snovais/reconhecimento_de_audios/tree/main/imagem/imagem.jpg)](https://github.com/snovais/reconhecimento_de_audios/tree/main/imagem/imagem.jpg)
